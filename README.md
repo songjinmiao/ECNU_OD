@@ -1,9 +1,10 @@
 # ECNU_OD
+## ALLData
 ### epcluster_ep_500m_long_lat_spclusterid_unique.csv
-终点簇及其匹配的停留热点簇表 Include:ep_cluster_ID、list_endpoint、list_sp_cluster_ID
+终点簇及其匹配的停留热点簇表 Include: ep_cluster_ID、list_endpoint、list_sp_cluster_ID
 ### recluster_sp_minsample1_all.csv
-停留点表 Include:plan_no、label、endpoint
+停留点表 Include: plan_no、label、endpoint
 ### endpoint_long_lat.csv
-终点表 Include:endpoint
+终点表 Include: endpoint
 ### trajctory_DD.csv
-轨迹表 Include:plan_no、endpoint
+轨迹表 Include: plan_no、endpoint
