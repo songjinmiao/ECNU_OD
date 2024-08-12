@@ -9,7 +9,7 @@
 ### recluster_hp_minsample1_all.csv
 停留热点表 Include: label、AVG_duration、Median_duration、Stay_frequency、longitude、latitude
 ### trajctory_list_hp_DD.csv
-轨迹停留热点序列表 Include: plan_no、list_hp_cluster_ID、list_arrive_time、list_duration、load_time、end_time
+轨迹停留热点序列表 Include: plan_no、list_hp_cluster_ID、list_hp_cluster_ID_arrive_time、list_hp_cluster_ID_duration、load_time、end_time
 ### endpoint_long_lat.csv
 终点表 Include: endpoint
 ### trajctory_DD.csv
